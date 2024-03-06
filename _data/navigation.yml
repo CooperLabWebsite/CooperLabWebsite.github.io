@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: "People"
+    sublinks:
+      - title: Current
+        url: /people/current
+      - title: Alumni
+        url: /people/alumni/
+  - title: "Research"
+    sublinks:
+      - title: Research Areas
+        url: /research/areas/
+      - title: Tools
+        url: /research/tools/
+  - title: "Sequencing"
+    url: https://www.microbialsequencing.pitt.edu/
+  - title: "EvolvingSTEM"
+    url: https://evolvingstem.org/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+    sublinks:
+      - title: Info
+        url: /contact/info/
+      - title: Join us
+        url: /contact/join/
+
+    
